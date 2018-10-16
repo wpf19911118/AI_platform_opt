@@ -1,0 +1,1 @@
+void benchmark_test();
