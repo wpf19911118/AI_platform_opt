@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+#include "cuda_env_test.h"
 
 void cuda_env_test(){
 	
